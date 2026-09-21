@@ -1,0 +1,178 @@
+[
+  {
+    "file": "assets/ch01.png",
+    "url": "https://www.browndust2.com/3rd-anniversary/assets/characters/ch01/idle.png",
+    "bytes": 652262,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "76507ee332b05f2f498b09c47667b1b78e6fb15d201c125a1fe3519c6b66dde5"
+  },
+  {
+    "file": "assets/ch06.png",
+    "url": "https://www.browndust2.com/3rd-anniversary/assets/characters/ch06/idle.png",
+    "bytes": 741222,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "602a5e3b5077ae5f7113ad0f07953aec8ec39de969d6d275627c6bae3cd3bb19"
+  },
+  {
+    "file": "assets/ch09.png",
+    "url": "https://www.browndust2.com/3rd-anniversary/assets/characters/ch09/idle.png",
+    "bytes": 714772,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "e8c10c6374362214d539433b5c9eaccafbe87ee88df09c31b3252763001f7811"
+  },
+  {
+    "file": "assets/ch10.png",
+    "url": "https://www.browndust2.com/3rd-anniversary/assets/characters/ch10/idle.png",
+    "bytes": 751773,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "183860428fc6eb892da931ac2217a02630868cf97006fc26c6d5037bc5c1b458"
+  },
+  {
+    "file": "assets/sea.jpg",
+    "url": "https://www.browndust2.com/3rd-anniversary/assets/img/bg-main-pc.jpg",
+    "bytes": 2175591,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "99737667c6dc1801da27d0019c46a0181a5ff1def968376643525cefb17570b7"
+  },
+  {
+    "file": "assets/world.mp4",
+    "url": "https://www.browndust2.com/video/story/full.mp4",
+    "bytes": 4334233,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "a43d36b704753d58987d2e7a9b55df0a2c0a586f5c486ea6a5006152df83ece2"
+  },
+  {
+    "file": "assets/pack0.png",
+    "url": "https://www.browndust2.com/img/pack/packCard/pack_story1.png",
+    "bytes": 22188,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "21fcb873c65473284d4dcf6a7a862f5b4bb22368fcd57d6e70f19465971183e2"
+  },
+  {
+    "file": "assets/pack1.png",
+    "url": "https://www.browndust2.com/img/pack/packCard/pack_charactor1.png",
+    "bytes": 17699,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "59b48e0cc88f5d9c25e02902a53b50643541e17ad0783f843b8c40017443caeb"
+  },
+  {
+    "file": "assets/pack2.png",
+    "url": "https://www.browndust2.com/img/pack/packCard/pack_special_pvp.png",
+    "bytes": 21613,
+    "checkedAt": "2026-09-14",
+    "usage": "local review; company publication approval not verified",
+    "sha256": "1cbe874c7f6edbe0037e5445ec01667182a583a0ebb5b4630761e078909b46c9"
+  },
+  {
+    "file": "assets/anniversary.jpg",
+    "bytes": 23658,
+    "derived": false,
+    "checkedAt": "2026-09-14",
+    "url": "https://i.ytimg.com/vi/xNoB0FWd4iY/hqdefault.jpg",
+    "sha256": "4ac83c4364ea1d42281f0ae7c38dab1ab97d63ebc5281edb47851d80c61a906f"
+  },
+  {
+    "file": "assets/bunny.jpg",
+    "bytes": 32941,
+    "derived": false,
+    "checkedAt": "2026-09-14",
+    "url": "https://i.ytimg.com/vi/h1q57hLiemw/hqdefault.jpg",
+    "sha256": "d6067fada12640b8ebf647ba53070f4a6fa4e9774e4fceab7af79427fdef4e89"
+  },
+  {
+    "file": "assets/ch01.webp",
+    "bytes": 106242,
+    "derived": true,
+    "checkedAt": "2026-09-14",
+    "source": "assets/ch01.png",
+    "sha256": "6624d1ff9069d39738aee1120edab249c98864258c2f6565f004673794f72b70"
+  },
+  {
+    "file": "assets/ch06.webp",
+    "bytes": 147678,
+    "derived": true,
+    "checkedAt": "2026-09-14",
+    "source": "assets/ch06.png",
+    "sha256": "59dbd32507c357075d906515dbab14fd1fd1a298f96df53cfcba36bb1111adbe"
+  },
+  {
+    "file": "assets/ch09.webp",
+    "bytes": 115394,
+    "derived": true,
+    "checkedAt": "2026-09-14",
+    "source": "assets/ch09.png",
+    "sha256": "4e607cfef7f126f7edb9bdba229a8bca23ccba09ca127a8e13eefcca1a5eadc5"
+  },
+  {
+    "file": "assets/ch10.webp",
+    "bytes": 149656,
+    "derived": true,
+    "checkedAt": "2026-09-14",
+    "source": "assets/ch10.png",
+    "sha256": "2277bad5ef9769d49b1f870c1d681a9bebc8cc0f07df1bc6b85963b8dba284bd"
+  },
+  {
+    "file": "assets/current-event.png",
+    "bytes": 2061429,
+    "derived": false,
+    "checkedAt": "2026-09-14",
+    "url": "https://www.browndust2.com/web-assets/2026-09/01M25813MY6RQMASQHK1W0KA47/260820_Collab%20Event_KR.png",
+    "sha256": "2cef39e0d825e148598b5ba7e8d3d4ff9cb7eb34759f450f0ae20da79d5ab887"
+  },
+  {
+    "file": "assets/pack-reveal.mp4",
+    "bytes": 120776,
+    "derived": true,
+    "checkedAt": "2026-09-14",
+    "source": "assets/pack0.png",
+    "sha256": "721d1e1db9ee3751b7d37a77a45f034945ec8607ad1a93b52ee9ba82c0611433"
+  },
+  {
+    "file": "assets/summer.jpg",
+    "bytes": 45193,
+    "derived": false,
+    "checkedAt": "2026-09-14",
+    "url": "https://i.ytimg.com/vi/uWjMod0ie8A/hqdefault.jpg",
+    "sha256": "15cc13cb6b07a276def4086e946a098c12c5c40e9a25813b29e08ef35f589fb6"
+  },
+  {
+    "file": "assets/world.jpg",
+    "bytes": 101293,
+    "derived": true,
+    "checkedAt": "2026-09-14",
+    "source": "assets/world.mp4",
+    "sha256": "6826fe117af5655db2d7750009375eb999eee372dfef3c884b25191e77ec5ce0"
+  },
+  {
+    "file": "assets/hero-scroll-sample.mp4",
+    "bytes": 7245830,
+    "source": "user upload: 260818____ ____UA____42s_16x9.mp4",
+    "trimSeconds": [
+      0,
+      5.6
+    ],
+    "usage": "temporary scroll prototype, explicitly authorized by user",
+    "checkedAt": "2026-09-14",
+    "sha256": "a741183cbd2e30a5b0efcf3783a8f7c91f78b8c79019d2e3859dfccfa502ad9b"
+  },
+  {
+    "file": "assets/hero-scroll-sample.jpg",
+    "bytes": 51559,
+    "source": "user upload: 260818____ ____UA____42s_16x9.mp4",
+    "trimSeconds": [
+      0,
+      5.6
+    ],
+    "usage": "temporary scroll prototype, explicitly authorized by user",
+    "checkedAt": "2026-09-14",
+    "sha256": "842c1be3b3231fb979e05fcf6b61dd7125f2cc2f69fa59dc6d0b45c6fee2f692"
+  }
+]

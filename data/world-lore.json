@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-09-15",
+  "locales": {
+    "ko": {
+      "title": "스베른 너머, 밤세계로.",
+      "intro": "스베른에서 시작된 모험은 지상과 밤세계를 함께 위협하는 존재를 좇는 여정으로 넓어집니다. 2026년의 본편은 유스티아 일행의 밤세계 탐험에서, 당신이 직접 마스터가 되어 참여하는 이야기로 이어집니다.",
+      "checked": "2026.09.15 확인 · 아래 날짜는 한국 기준 업데이트일입니다.",
+      "read": "관련 공식 공지 읽기",
+      "chapters": [
+        {"label":"스토리팩 20","date":"2026-03-12","title":"심연 속으로 — 밤세계의 문이 열리다","body":"유스티아는 리베르타, 블레이드와 함께 언데드들의 땅 타로스로 향합니다. 음산한 전시관에 숨겨진 것은 밤세계와 지상을 동시에 위협하는 ‘꿈의 주인’에 관한 단서. 모험의 무대가 밤세계로 확장되는 첫걸음입니다.","noticeId":"01KS1AVRPV9D7JMWTJ7JG6FFSA"},
+        {"label":"마스터팩 1","date":"2026-07-02","title":"차원의 경계 — 이제 당신의 시선으로","body":"스토리팩 20 이후, 이야기는 플레이어의 1인칭 시점으로 이어집니다. 낯선 곳에서 깨어난 당신은 베일라의 안내로 ‘글루피 다이너’에서 손님들의 감정과 욕망을 모으기 시작합니다. 유스티아, 블레이드, 리베르타, 티르가 함께하는 가운데 식당에 숨겨진 비밀이 새로운 여정을 엽니다.","noticeId":"01KW97M4MRK2E2YKRG4CR9JM39"},
+        {"label":"마스터팩 2","date":"2026-08-27","title":"데몬의 긍지 — 게나르의 콜로세움으로","body":"마스터와 유스티아 일행은 마모니르의 조언을 따라 레비아를 찾아갑니다. 게나르의 콜로세움에서 다음 목적지로 향할 단서를 얻으려면 강자 선발전에 참가해야 합니다. 밤세계의 새로운 도시에서, 데몬들의 방식과 마주하는 이야기가 펼쳐집니다.","noticeId":"01M0VCFAJM0S08KHKHGNS6NDTY"}
+      ],
+      "otherTitle": "본편 곁에서 펼쳐지는 이야기들",
+      "otherIntro": "모든 팩과 이벤트가 본편의 다음 장은 아닙니다. 별도 시공간의 모험과 인물의 과거를 알고 읽으면 이야기가 더 잘 보입니다.",
+      "branches": [
+        {"title":"캐릭터팩 · 또 다른 시공간","body":"캐릭터팩은 본편과 다른 시공간에서 익숙한 인물들의 다른 모습을 보여줍니다. 본편의 시간순 줄거리와 나누어 즐기는 이야기입니다."},
+        {"title":"시즌 이야기 · 인물의 과거와 일상","body":"‘Psyche Artist’는 스토리팩 20 이전의 팔레트와 마모니르를 다룹니다. 시즌 이야기처럼 본편의 배경을 보완하는 이야기도 있으며, 기간 한정 콜라보 이벤트팩은 별도 작품과 만나는 모험으로 구분합니다.","noticeId":"01KS1AVRPV9D7JMWTJ7JG6FFSA"}
+      ],
+      "packs": "팩의 종류 알아보기",
+      "spoiler": "공식 공개 소개를 바탕으로 결말과 주요 반전을 덜어낸 요약입니다. 연결된 공식 공지 원문에는 스포일러가 포함될 수 있습니다."
+    },
+    "en": {
+      "title": "Beyond Svern, into the Night World.",
+      "intro": "The adventure that began in Svern expands into a search for a threat to both the surface and the Night World. The 2026 main story moves from Justia’s journey into the Night World to a tale you experience firsthand as the Master.",
+      "checked": "Checked September 15, 2026 · Update dates below use Korean time (KST).",
+      "read": "Read the related official notice",
+      "chapters": [
+        {"label":"Story Pack 20","date":"2026-03-12","title":"Into the Abyss — entering the Night World","body":"Justia travels with Liberta and Blade to Taros, a land of the undead. An ominous exhibition hall holds clues to the Master of Dreams, a threat to both the Night World and the surface. This is the first step into a new realm of the main story.","noticeId":"01KS1AVRZN0YJD2T58NDDDY9CH"},
+        {"label":"Master Pack 1","date":"2026-07-02","title":"Edge of Dimensions — through your eyes","body":"After Story Pack 20, the main story shifts to a first-person perspective. You awaken in an unfamiliar place and, guided by Veila, begin collecting guests’ emotions and desires at Glupy Diner. With Justia, Blade, Liberta and Tyr in the story, the diner’s secrets open a new journey.","noticeId":"01KWB238JS5ESMS36BS1TW5HGH"},
+        {"label":"Master Pack 2","date":"2026-08-27","title":"Way of the Demon — Ghenar’s Colosseum","body":"Following Mamonir’s advice, the Master and Justia’s group seek out Levia. At Ghenar’s Colosseum, they enter a tournament to obtain a clue to their next destination. The journey continues in a new Night World city, where they encounter the demons’ way of doing things.","noticeId":"01M0RT0GJ7GY61C935SNBZ1X58"}
+      ],
+      "otherTitle": "Stories alongside the main adventure",
+      "otherIntro": "Not every pack or event is the next chapter of the main story. Other worlds and stories from a character’s past offer different ways to explore the cast.",
+      "branches": [
+        {"title":"Character Packs · other times and worlds","body":"Character Packs place familiar characters in a different time and space. Enjoy these adventures separately from the main story’s chronology."},
+        {"title":"Season stories · past lives and everyday moments","body":"Psyche Artist explores Palette and Mamonir before Story Pack 20. Some season stories add background to the main adventure. Limited collaboration event packs are separate crossovers with other works.","noticeId":"01KS1AVRZN0YJD2T58NDDDY9CH"}
+      ],
+      "packs": "Explore the pack types",
+      "spoiler": "Based on official public introductions, with endings and major twists omitted. The linked official notices may contain spoilers."
+    },
+    "ja": {
+      "title": "スベルンを越え、常夜の世界へ。",
+      "intro": "スベルンで始まった冒険は、地上と常夜の世界の両方を脅かす存在を追う旅へ広がります。2026年の本編は、ユースティア一行の常夜の世界への旅から、あなた自身がマスターとして体験する物語へと続きます。",
+      "checked": "2026.09.15確認 · 以下は韓国時間（KST）基準のアップデート日です。",
+      "read": "関連する公式のお知らせを読む",
+      "chapters": [
+        {"label":"ストーリーカセット20","date":"2026-03-12","title":"深淵の中へ — 常夜の世界の扉が開く","body":"ユースティアはリベルタ、ブレイドと共に、アンデッドたちの地タロスへ向かいます。不気味な展示館には、常夜の世界と地上を同時に脅かす「夢の主」の手がかりが隠されています。本編の舞台が常夜の世界へ広がる最初の一歩です。","noticeId":"01KS1AVS58ZEFQ1A6MF8P9CKT3"},
+        {"label":"マスターカセット1","date":"2026-07-02","title":"次元の境界 — あなたの視点で始まる物語","body":"ストーリーカセット20の後、本編はプレイヤーの一人称視点へと続きます。見知らぬ場所で目覚めたあなたは、ヴェイラの案内で「グルピィ・ダイナー」の客たちの感情や欲望を集める仕事を始めます。ユースティア、ブレイド、リベルタ、ティルが登場し、店に隠された秘密が新たな旅を開きます。","noticeId":"01KWBFXNHT3ACA7AF4NFYQMBP1"},
+        {"label":"マスターカセット2","date":"2026-08-27","title":"Way of the Demon — ゲナールのコロシアムへ","body":"マスターとユースティア一行は、マモニルの助言を受けてレヴィアを探します。ゲナールのコロシアムでは、次の目的地への手がかりを得るため、強者選抜戦に参加することに。常夜の世界の新たな街で、デーモンたちのやり方と向き合う物語が展開します。","noticeId":"01M0VCYHQ677FW3ZDMSFPR4DBR"}
+      ],
+      "otherTitle": "本編のそばで広がる物語",
+      "otherIntro": "すべてのカセットやイベントが、本編の次の章とは限りません。別の時空の冒険や登場人物の過去を分けて読むと、それぞれの物語をより楽しめます。",
+      "branches": [
+        {"title":"キャラクターカセット · 別の時空へ","body":"キャラクターカセットでは、本編とは異なる時空で、おなじみのキャラクターの違う姿を楽しめます。本編の時系列とは分けて読む物語です。"},
+        {"title":"シーズンストーリー · 過去と日常","body":"「Psyche Artist」は、ストーリーカセット20以前のパレットとマモニルを描きます。このように本編の背景を補う物語もあります。期間限定のコラボイベントカセットは、別作品との出会いを楽しむ冒険として区別できます。","noticeId":"01KS1AVS58ZEFQ1A6MF8P9CKT3"}
+      ],
+      "packs": "カセットの種類を見る",
+      "spoiler": "公式に公開された紹介を基に、結末や大きな展開を省いてまとめています。リンク先の公式のお知らせにはネタバレが含まれる場合があります。"
+    }
+  }
+}

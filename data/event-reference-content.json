@@ -1,0 +1,261 @@
+[
+  {
+    "url": "https://www.browndust2.com/3rd-anniversary/kr/",
+    "title": "브라운더스트2 3주년 — SUMMER CRUISE",
+    "language": "ko",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "3주년 SUMMER CRUISE"
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 3주년 특설 페이지가 SUMMER CRUISE를 제목으로 내건 여름·크루즈 테마의 기념 페이지다."
+      },
+      {
+        "type": "paragraph",
+        "text": "페이지에는 캐릭터 소개와 상호작용 요소, 업데이트 소개, 디지털 굿즈, 영상 재생 영역이 구성되어 있다."
+      },
+      {
+        "type": "list",
+        "items": [
+          "크루즈 콘셉트의 3주년 아카이브",
+          "캐릭터 소개 및 디지털 굿즈",
+          "특별 라이브 안내가 포함된 페이지"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "특설 페이지의 크루즈 티켓 사전등록 표시는 종료 상태다. 이 자료는 당시 행사의 구성 기록이며 현재 보상 또는 참여 가능 여부를 뜻하지 않는다."
+      },
+      {
+        "type": "image",
+        "src": "./assets/reference-events/01-title.png",
+        "alt": "브라운더스트2 3주년 SUMMER CRUISE 공식 타이틀"
+      }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://www.browndust2.com/two-and-half-anniversary/kr/",
+    "title": "브라운더스트2 2.5주년 — ALL YOU NEED IS BUNNY",
+    "language": "ko",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "2.5주년 ALL YOU NEED IS BUNNY"
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 특설 페이지는 ALL YOU NEED IS BUNNY를 2.5주년의 바니 테마로 소개한다."
+      },
+      {
+        "type": "paragraph",
+        "text": "페이지의 캐릭터 탭과 음성 메시지 표기에서 제니트와 빌헬미나를 확인할 수 있으며, 디지털 굿즈와 미니게임 영역도 제공한다."
+      },
+      {
+        "type": "list",
+        "items": [
+          "바니 테마 기념 페이지",
+          "캐릭터 소개·음성 메시지",
+          "배경화면·스티커 등 디지털 굿즈와 미니게임"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "이 내부 자료는 특설 페이지의 행사 구성을 읽기 위한 아카이브다. 페이지에 보이는 과거 제공물은 현재 보상으로 추정하지 않는다."
+      },
+      {
+        "type": "image",
+        "src": "./assets/reference-events/02-title.png",
+        "alt": "브라운더스트2 2.5주년 공식 타이틀"
+      }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://www.browndust2.com/2nd-anniversary/kr/",
+    "title": "브라운더스트2 2주년 — 워터파크 비키니 썸머",
+    "language": "ko",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "2주년 워터파크 기념 페이지"
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 페이지 제목은 워터파크에서 즐기는 비키니 썸머이며, 2주년 여름·워터파크 테마를 전면에 둔다."
+      },
+      {
+        "type": "paragraph",
+        "text": "캐릭터 영역에는 유스티아, 빌헬미나, 제니트가 표시되고, 해당 캐릭터의 모션 영상 파일을 불러오는 구성도 확인된다."
+      },
+      {
+        "type": "list",
+        "items": [
+          "워터파크와 여름 수영복 테마",
+          "캐릭터 소개와 모션 영상",
+          "로드맵·디지털 굿즈·미니게임 구성"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "사전등록과 입장 등록권 판매는 특설 페이지에서 종료로 표시된다. 따라서 이 기록은 당시 행사 소개이며 현재 참여 또는 보상 지급 안내가 아니다."
+      },
+      {
+        "type": "image",
+        "src": "./assets/reference-events/03-title.png",
+        "alt": "브라운더스트2 2주년 공식 로고"
+      }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://www.browndust2.com/events/one-and-half-anniversary/kr/",
+    "title": "브라운더스트2 1.5주년 — 바니걸·역바니",
+    "language": "ko",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "1.5주년 바니 테마"
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 특설 페이지는 바니걸과 역바니를 1.5주년의 핵심 테마로 소개하며, PANDORA CITY 분위기의 화면을 사용한다."
+      },
+      {
+        "type": "paragraph",
+        "text": "페이지 메타 설명은 인기 투표 1위 캐릭터 ‘데이드림 바니 모르페아’와 대규모 뽑기 기회 제공을 당시 행사 요소로 밝힌다."
+      },
+      {
+        "type": "list",
+        "items": [
+          "바니걸·역바니 테마",
+          "데이드림 바니 모르페아 소개",
+          "PV·트레일러·로드맵·디지털 굿즈·미니게임 메뉴"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "원문에 적힌 무료 획득 기회와 뽑기 기회는 1.5주년 당시의 홍보 내용이다. 현재 수령 가능 여부나 보상 수량은 이 자료로 확인하지 않는다."
+      },
+      {
+        "type": "image",
+        "src": "./assets/reference-events/04-og.jpg",
+        "alt": "브라운더스트2 1.5주년 공식 대표 이미지"
+      }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://www.browndust2.com/events/first-anniversary/kr/",
+    "title": "브라운더스트2 1주년 — SUMMER PARTY",
+    "language": "ko",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "1주년 SUMMER PARTY"
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 특설 페이지는 ‘비키니가 세상을 구한다!’는 여름 수영복 파티 콘셉트와 SUMMER PARTY라는 1주년 제목을 사용한다."
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 메타 설명은 5성 ‘여름휴가 달비’ 무료 획득 기회를 당시 1주년 행사 요소로 안내한다."
+      },
+      {
+        "type": "list",
+        "items": [
+          "여름 수영복·SUMMER PARTY 테마",
+          "여름휴가 달비 소개",
+          "PV·트레일러·디지털 굿즈·미니게임으로 구성된 특설 페이지"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "무료 획득 기회는 원문이 홍보하던 당시 행사 내용이다. 이 내부 참조는 현재 보상 또는 이벤트 진행을 보장하지 않는다."
+      },
+      {
+        "type": "image",
+        "src": "./assets/reference-events/05-og.png",
+        "alt": "브라운더스트2 1주년 SUMMER PARTY 공식 대표 이미지"
+      }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://www.browndust2.com/events/halfanniversary/ko-kr/",
+    "title": "브라운더스트2 0.5주년",
+    "language": "ko",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "0.5주년 기념 페이지"
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 0.5주년 페이지는 반주년, 사전예약, 사전등록, 갤러리, 쿠폰, 보상을 관련 항목으로 표시한다."
+      },
+      {
+        "type": "paragraph",
+        "text": "원문은 브라운더스트2 반주년을 기념해 풍성한 보상을 안내하는 페이지로 소개하며, 한국어 외 영어·일본어·번체 중국어 선택을 제공한다."
+      },
+      {
+        "type": "list",
+        "items": [
+          "반주년 기념과 사전등록 안내",
+          "갤러리·티어·쿠폰·보상 관련 메뉴",
+          "배경음악과 캐릭터 음성 재생 요소"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "이 페이지의 사전예약·쿠폰·보상 표기는 과거 기념행사 원문에 따른 것이다. 현재 유효한 쿠폰이나 지급 보상은 별도 최신 공지로 확인해야 한다."
+      },
+      {
+        "type": "image",
+        "src": "./assets/reference-events/06-sns-banner.jpg",
+        "alt": "브라운더스트2 0.5주년 공식 대표 이미지"
+      }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://www.browndust2.com/event/agf_2025/kr/",
+    "title": "브라운더스트2 × AGF 2025",
+    "language": "ko",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "AGF 2025 오프라인 부스"
+      },
+      {
+        "type": "paragraph",
+        "text": "공식 AGF 2025 특설 페이지는 브라운더스트2 부스를 2025년 12월 5일부터 7일까지 운영한 행사로 안내한다."
+      },
+      {
+        "type": "paragraph",
+        "text": "페이지는 2.5주년 바니걸 코스프레, 한정 스페셜 굿즈, 가챠와 퀴즈 이벤트를 현장 프로그램으로 소개한다."
+      },
+      {
+        "type": "list",
+        "items": [
+          "행사 기간: 2025. 12. 05 ~ 12. 07",
+          "GLUPY LIVE on Stage 프로그램",
+          "코스프레·가챠·퀴즈와 증정·판매 굿즈 안내"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "AGF 2025는 종료된 오프라인 행사다. 이 자료에는 현재 현장 참여나 굿즈 제공 여부를 넣지 않는다."
+      },
+      {
+        "type": "image",
+        "src": "./assets/reference-events/07-og.jpg",
+        "alt": "브라운더스트2 AGF 2025 공식 대표 이미지"
+      }
+    ],
+    "checkedAt": "2026-09-16"
+  }
+]

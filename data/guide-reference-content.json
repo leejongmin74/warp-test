@@ -1,0 +1,117 @@
+[
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-6/undefined-1",
+    "title": "공격 순서",
+    "language": "ko",
+    "blocks": [
+      { "type": "paragraph", "text": "전투 준비 시간에는 하단의 동료 초상화를 드래그하여 공격 순서를 변경할 수 있습니다." },
+      { "type": "paragraph", "text": "각 동료가 보유한 스킬의 특성을 고려해 공격 순서를 전략적으로 잘 배정하면, 전투를 유리하게 이끌 수 있습니다." },
+      { "type": "paragraph", "text": "전투 준비 시간에는 출전한 동료의 위치를 변경할 수 있습니다." },
+      { "type": "paragraph", "text": "적을 효과적으로 공격하면서도 방어까지 고려할 수 있는 위치를 잘 선정해 봅시다." }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-6/undefined-2",
+    "title": "배치",
+    "language": "ko",
+    "blocks": [
+      { "type": "paragraph", "text": "공격턴 및 방어턴에는 출전 동료의 위치를 변경할 수 있습니다." },
+      { "type": "paragraph", "text": "공격턴에는 공격에 유리한 위치로 방어턴에는 상대 공격을 방어하기 유리한 위치로 변경하면 전투를 더 쉽게 풀어나갈 수 있습니다." }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-6/sp",
+    "title": "SP",
+    "language": "ko",
+    "blocks": [
+      { "type": "paragraph", "text": "출전 동료가 스킬을 사용하기 위해서는 SP가 필요합니다." },
+      { "type": "paragraph", "text": "전투 시작 시 SP 6이 기본 제공되고, 공격 및 방어턴이 종료될 때마다 추가로 SP 2를 획득합니다." },
+      { "type": "paragraph", "text": "일반 공격 또는 SP 획득 스킬을 통해서도 SP를 획득할 수 있습니다." }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-3/undefined",
+    "title": "코스튬",
+    "language": "ko",
+    "blocks": [
+      { "type": "image", "src": "https://3719462523-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2IkkX5GOafHNqQ7Wr8Ka%2Fuploads%2FHbCMVORfmExUU3vuSFYp%2Fguide_0001_07.png?alt=media&token=f0f51d8a-a0c9-45ef-acc1-6d76d821604f", "alt": "" },
+      { "type": "paragraph", "text": "코스튬을 변경하면 동료의 복장과 전투에서 사용할 수 있는 스킬이 변경됩니다." },
+      { "type": "paragraph", "text": "동료마다 다양한 코스튬이 존재하고, 전투 중에 코스튬 교체를 통하여 전투를 보다 유리하게 만들 수 있습니다." },
+      { "type": "paragraph", "text": "코스튬은 뽑기, 퀘스트 등을 통하여 획득할 수 있습니다." },
+      { "type": "paragraph", "text": "코스튬마다 고유의 스킬을 가지고 있습니다." },
+      { "type": "paragraph", "text": "각 코스튬은 전투에서 SP를 소모하여 일반 공격보다 강력하고 유용한 스킬 공격을 할 수 있게 합니다." },
+      { "type": "paragraph", "text": "각 코스튬은 쿨타임이 공유되지 않아 코스튬이 많을수록 더 다양한 스킬 사용을 가능하게 합니다." }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-3/undefined-1",
+    "title": "코스튬 강화",
+    "language": "ko",
+    "blocks": [
+      { "type": "image", "src": "https://3719462523-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2IkkX5GOafHNqQ7Wr8Ka%2Fuploads%2FJzHf93tgyXrTlMObCbxc%2Fguide_0000_03.png?alt=media&token=bc4d7237-fc6f-421a-86db-72b1acc13912", "alt": "" },
+      { "type": "paragraph", "text": "코스튬은 해당 코스튬 고유의 코스튬 도안을 사용하여 최대 +5까지 강화할 수 있습니다." },
+      { "type": "paragraph", "text": "코스튬을 강화할 때마다 스킬 능력 향상, 쿨타임 감소, SP 소모량 감소 등의 효과를 얻을 수 있습니다." },
+      { "type": "paragraph", "text": "뽑기, 보상 등에서 이미 보유한 코스튬을 중복으로 획득할 경우, 해당 코스튬의 도안을 획득할 수 있습니다." },
+      { "type": "paragraph", "text": "최대 강화가 되어 있는 코스튬을 중복으로 획득할 경우는 코스튬 도안이 아니라 황금의 실이라는 재화를 얻습니다." }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined/undefined-3",
+    "title": "레벨",
+    "language": "ko",
+    "blocks": [
+      { "type": "paragraph", "text": "동료는 전투 또는 슬라임을 통하여 경험치를 획득할 수 있습니다." },
+      { "type": "paragraph", "text": "경험치를 일정량 획득하면 자동으로 레벨이 증가됩니다." },
+      { "type": "paragraph", "text": "동료가 레벨업을 하면 생명력, 공격력, 마법력이 일정 수치 증가합니다." }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined/undefined-4",
+    "title": "승급",
+    "language": "ko",
+    "blocks": [
+      { "type": "paragraph", "text": "처음 동료를 획득하면 1성으로 제공됩니다." },
+      { "type": "paragraph", "text": "동료의 성급은 승급의 별을 사용하여 올릴 수 있습니다." },
+      { "type": "paragraph", "text": "성급을 올릴수록 최대 레벨이 증가합니다." },
+      { "type": "paragraph", "text": "동료에 따라 최대로 올릴 수 있는 성급이 다릅니다." },
+      { "type": "list", "items": ["3성 동료 : 3성", "4성 동료 : 4성", "5성 동료 : 5성"] }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-2/undefined",
+    "title": "장비",
+    "language": "ko",
+    "blocks": [
+      { "type": "image", "src": "https://3719462523-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F2IkkX5GOafHNqQ7Wr8Ka%2Fuploads%2FAR0rlmGdN1oRDR8sjBZ5%2Fguide_0001_20.png?alt=media&token=9cf42451-9e90-498b-ae33-c63a897a993c", "alt": "" },
+      { "type": "paragraph", "text": "장비는 동료의 다양한 능력치를 증가시킬 수 있습니다." },
+      { "type": "heading", "text": "능력치" },
+      { "type": "paragraph", "text": "생명력, 공격력, 마법력, 방어력, 마법저항, 치명확률, 치명피해, 속성피해, 속성저항" },
+      { "type": "paragraph", "text": "장비의 강화 및 등급이 높을수록 능력치를 더 많이 증가시킬 수 있습니다." },
+      { "type": "heading", "text": "등급" },
+      { "type": "paragraph", "text": "UR > SR > R > N" },
+      { "type": "paragraph", "text": "장비는 동료마다 5개 부위에 맞는 장비를 장착할 수 있습니다." },
+      { "type": "heading", "text": "장착 부위" },
+      { "type": "paragraph", "text": "무기, 갑옷, 투구, 장갑, 장신구" },
+      { "type": "paragraph", "text": "장비는 장비 제작 재능 스킬을 사용하여 획득할 수 있습니다." }
+    ],
+    "checkedAt": "2026-09-16"
+  },
+  {
+    "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-1/undefined-11",
+    "title": "장비제작",
+    "language": "ko",
+    "blocks": [
+      { "type": "paragraph", "text": "장비 제작은 특정 재료를 사용해, 동료에게 장착할 수 있는 장비를 제작하는 스킬입니다." },
+      { "type": "paragraph", "text": "장비 제작 재능 스킬 레벨이 높아질수록 더 높은 등급의 장비를 제작할 수 있게 됩니다." },
+      { "type": "paragraph", "text": "장비 제작에 필요한 재료는 탐색 습득물, 퀘스트 보상, 연금술 등으로 획득할 수 있습니다." }
+    ],
+    "checkedAt": "2026-09-16"
+  }
+]

@@ -1,0 +1,997 @@
+{
+  "checkedAt": "2026-09-22",
+  "packs": [
+    {
+      "id": "story-1",
+      "cover": "pack_story1.png",
+      "group": "story",
+      "number": 1,
+      "title": "Knight of Blood",
+      "locales": {
+        "ko": {
+          "name": "피의 기사",
+          "summary": "흑마법의 위협에 휩싸인 루고 마을. 라텔과 유스티아의 첫 여정이 시작됩니다.",
+          "paragraphs": [
+            "루고 마을로 향하던 검사 유스티아는 흑마법사에게 공격받는 라텔을 구합니다. 마을 사람들을 돕고 싶은 라텔과 임무를 우선하는 유스티아가 함께 위협에 맞섭니다.",
+            "서로 다른 두 사람의 만남과 동행을 따라가는 첫 이야기입니다. 작은 마을에서 시작한 사건이 더 넓은 세계로 향하는 계기가 됩니다."
+          ],
+          "highlights": [
+            "루고 마을을 덮친 흑마법의 위협",
+            "라텔과 유스티아의 만남"
+          ],
+          "cast": [
+            "라텔",
+            "유스티아"
+          ]
+        },
+        "en": {
+          "name": "Knight of Blood",
+          "summary": "Danger reaches Lugo Village, bringing Lathel and Justia together at the start of their journey.",
+          "paragraphs": [
+            "Justia rescues Lathel from a dark mage near Lugo. His wish to help the villagers meets her determination to complete her mission.",
+            "Follow their first encounter and the beginnings of a partnership that carries them beyond the village."
+          ],
+          "highlights": [
+            "Dark magic threatens Lugo",
+            "Lathel meets Justia"
+          ],
+          "cast": [
+            "Lathel",
+            "Justia"
+          ]
+        },
+        "ja": {
+          "name": "Knight of Blood",
+          "summary": "黒魔術の脅威が迫るルゴ村。ラテルとユースティアの旅が始まります。",
+          "paragraphs": [
+            "ルゴ村へ向かうユースティアは、黒魔術師に襲われたラテルを助けます。村人を救いたいラテルと、任務を優先するユースティアが力を合わせます。",
+            "二人の出会いと旅立ちを描く最初の物語です。村で起きた事件から、より広い世界へと冒険が続いていきます。"
+          ],
+          "highlights": [
+            "ルゴ村を襲う黒魔術の脅威",
+            "ラテルとユースティアの出会い"
+          ],
+          "cast": [
+            "ラテル",
+            "ユースティア"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 1 BGM: Buried in Dark",
+          "url": "https://www.youtube.com/watch?v=u1-LUU8ocj8"
+        },
+        {
+          "label": "Official global showcase",
+          "url": "https://www.youtube.com/watch?v=NW-EC7p0OHQ"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 유스티아",
+          "url": "https://namu.moe/w/%EC%9C%A0%EC%8A%A4%ED%8B%B0%EC%95%84(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "story-2",
+      "cover": "pack_story2.png",
+      "group": "story",
+      "number": 2,
+      "title": "Lapis Witch",
+      "locales": {
+        "ko": {
+          "name": "푸른 마녀",
+          "summary": "사라진 언니를 찾는 세헤라자드. 다레프 마을에서 새로운 단서를 좇습니다.",
+          "paragraphs": [
+            "유스티아와 라텔의 여정은 다레프 마을로 이어집니다. 푸른 마녀 세헤라자드는 행방불명된 언니 테레제의 흔적을 찾아 이곳에 와 있습니다.",
+            "아이들을 구하러 떠난 뒤 사라진 테레제. 그녀를 찾으려는 세헤라자드의 사정이 일행의 모험과 연결됩니다."
+          ],
+          "highlights": [
+            "다레프 마을에서 찾는 단서",
+            "세헤라자드와 테레제의 관계"
+          ],
+          "cast": [
+            "세헤라자드",
+            "유스티아",
+            "라텔"
+          ]
+        },
+        "en": {
+          "name": "Lapis Witch",
+          "summary": "Scheherazade searches for her missing sister, following a lead to the village of Durev.",
+          "paragraphs": [
+            "Justia and Lathel reach Durev, where the Lapis Witch Scheherazade is seeking traces of her sister Teresse.",
+            "Teresse disappeared while trying to rescue children. Scheherazade's search gives the party a personal reason to pursue the mystery."
+          ],
+          "highlights": [
+            "Following clues in Durev",
+            "Scheherazade's search for Teresse"
+          ],
+          "cast": [
+            "Scheherazade",
+            "Justia",
+            "Lathel"
+          ]
+        },
+        "ja": {
+          "name": "Lapis Witch",
+          "summary": "行方不明の姉を捜すシェラザード。ダレフ村で新たな手掛かりを追います。",
+          "paragraphs": [
+            "ユースティアとラテルはダレフ村へ。そこで蒼の魔女シェラザードは、姉テレーゼの行方を追っています。",
+            "子供たちを救うために出発し、そのまま姿を消したテレーゼ。姉を捜すシェラザードの思いが、一行の旅とつながります。"
+          ],
+          "highlights": [
+            "ダレフ村での手掛かり探し",
+            "シェラザードとテレーゼの関係"
+          ],
+          "cast": [
+            "シェラザード",
+            "ユースティア",
+            "ラテル"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 2 BGM: Scent of Conspiracy",
+          "url": "https://www.youtube.com/watch?v=6Evm89x3E_E"
+        },
+        {
+          "label": "Official Lapis Witch Scheherazade PV",
+          "url": "https://www.youtube.com/watch?v=meyyfMTSoKs"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 테레제",
+          "url": "https://namu.moe/w/%ED%85%8C%EB%A0%88%EC%A0%9C(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "story-3",
+      "cover": "pack_story3.png",
+      "group": "story",
+      "number": 3,
+      "title": "Mist Man",
+      "locales": {
+        "ko": {
+          "name": "안개의 명사수",
+          "summary": "브륀에서 사라진 명사수 그레이를 추적하며, 수상한 약물의 단서에 접근합니다.",
+          "paragraphs": [
+            "일행은 이전 사건에 얽힌 그레이를 찾아 브륀으로 향합니다. 마석의 행방과 길드의 소문을 따라가던 중 그의 여동생 베르니를 만납니다.",
+            "그레이를 찾는 길은 도시 아래 하수도로 이어집니다. 단순한 추적처럼 보였던 여정 속에서, 위험한 약물과 실종 사건의 연결이 드러나기 시작합니다."
+          ],
+          "highlights": [
+            "그레이와 베르니를 잇는 단서",
+            "브륀의 거리에서 하수도로 이어지는 추적"
+          ],
+          "cast": [
+            "그레이",
+            "베르니",
+            "세헤라자드"
+          ]
+        },
+        "en": {
+          "name": "Mist Man",
+          "summary": "Track the missing sharpshooter Gray through a city hiding clues to a dangerous substance.",
+          "paragraphs": [
+            "The party follows traded magic stones and guild rumours in search of Gray, eventually meeting his sister Bernie.",
+            "The trail leads underground into the sewers. What begins as a search for one man uncovers connections between disappearances and a dangerous drug."
+          ],
+          "highlights": [
+            "Clues from Gray's sister Bernie",
+            "An investigation beneath the city"
+          ],
+          "cast": [
+            "Gray",
+            "Bernie",
+            "Scheherazade"
+          ]
+        },
+        "ja": {
+          "name": "Mist Man",
+          "summary": "姿を消した名射手グレイを追い、危険な薬と失踪事件の手掛かりを探します。",
+          "paragraphs": [
+            "グレイの行方を追う一行は、流通した魔石やギルドの情報を頼りに、彼の妹ベルニーと出会います。",
+            "捜索の舞台は街から地下の下水道へ。ひとりの射手を追う旅が、危険な薬と失踪事件をめぐる調査へ広がります。"
+          ],
+          "highlights": [
+            "グレイと妹ベルニーの手掛かり",
+            "街の地下へと続く追跡"
+          ],
+          "cast": [
+            "グレイ",
+            "ベルニー",
+            "シェラザード"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 3 BGM: Hiding Threat",
+          "url": "https://www.youtube.com/watch?v=Ek0GFF0-0_E"
+        },
+        {
+          "label": "Official Sharpshooter of the Mist Gray PV",
+          "url": "https://www.youtube.com/watch?v=O9EOD3OZIPU"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 그레이",
+          "url": "https://namu.moe/w/%EA%B7%B8%EB%A0%88%EC%9D%B4(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "story-4",
+      "cover": "pack_story4.png",
+      "group": "story",
+      "number": 4,
+      "title": "Cat Daddy",
+      "locales": {
+        "ko": {
+          "name": "안경과 고양이",
+          "summary": "고양이 소녀 루를 따라 카이락으로. 루와 올슈타인의 이야기를 만납니다.",
+          "paragraphs": [
+            "브륀에서 만난 고양이 소녀 루를 쫓아 일행은 카이락 마을에 도착합니다. 심부름을 하던 작은 만남이 다음 여정으로 이어집니다.",
+            "이번 장에서는 루와 올슈타인에게 시선이 옮겨갑니다. 두 인물의 관계를 따라가며 이전 사건과 이어지는 이야기를 만나보세요."
+          ],
+          "highlights": [
+            "카이락 마을로 이어지는 루의 발자취",
+            "루와 올슈타인의 관계"
+          ],
+          "cast": [
+            "루",
+            "올슈타인"
+          ]
+        },
+        "en": {
+          "name": "Cat Daddy",
+          "summary": "Follow Rou to Kairak and discover her connection with Olstein.",
+          "paragraphs": [
+            "After an encounter with the cat girl Rou, the party follows her to Kairak. An errand carried out by a small messenger becomes the next step in their journey.",
+            "This chapter shifts the focus to Rou and Olstein, bringing their relationship into the ongoing story."
+          ],
+          "highlights": [
+            "Following Rou to Kairak",
+            "Rou and Olstein's relationship"
+          ],
+          "cast": [
+            "Rou",
+            "Olstein"
+          ]
+        },
+        "ja": {
+          "name": "Cat Daddy",
+          "summary": "猫の少女ルゥを追ってカイラクへ。ルゥとオルシュタインの物語に触れます。",
+          "paragraphs": [
+            "使いをしていた猫の少女ルゥを追い、一行はカイラク村へ向かいます。小さな出会いが、次の旅につながっていきます。",
+            "この章ではルゥとオルシュタインに焦点が移ります。二人の関係に注目しながら、前の事件から続く物語を楽しんでください。"
+          ],
+          "highlights": [
+            "ルゥを追ってカイラクへ",
+            "ルゥとオルシュタインの関係"
+          ],
+          "cast": [
+            "ルゥ",
+            "オルシュタイン"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 4 BGM: Canyon of Will",
+          "url": "https://www.youtube.com/watch?v=VFyikiytXtc"
+        },
+        {
+          "label": "Official costume probability list",
+          "url": "https://browndust2.gitbook.io/probabilitydetails_en/other-probabilities/gear-draw"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 루",
+          "url": "https://namu.moe/w/%EB%A3%A8(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "story-5",
+      "cover": "pack_story5.png",
+      "group": "story",
+      "number": 5,
+      "title": "Desert Flower",
+      "locales": {
+        "ko": {
+          "name": "사막의 꽃",
+          "summary": "오아시스가 위협받는 사막 도시 알라릭. 실비아와 루비아 자매의 판단이 엇갈립니다.",
+          "paragraphs": [
+            "알라릭에 도착한 일행은 용병단을 이끄는 실비아·루비아 자매와 만납니다. 주변의 군사적 위협에 오아시스 오염까지 겹치며 도시는 긴장에 휩싸입니다.",
+            "계약을 중시하는 실비아와 직접 진상을 밝히려는 루비아. 서로 다른 선택이 유적 조사로 이어지며 자매의 관계와 도시의 문제가 함께 드러납니다."
+          ],
+          "highlights": [
+            "사막 도시와 오아시스를 둘러싼 사건",
+            "실비아·루비아 자매의 다른 판단"
+          ],
+          "cast": [
+            "실비아",
+            "루비아"
+          ]
+        },
+        "en": {
+          "name": "Desert Flower",
+          "summary": "A threatened oasis brings Sylvia and Rubia's conflicting decisions into focus.",
+          "paragraphs": [
+            "In the desert city of Alaric, the party meets the sisters leading a mercenary company. Military pressure and a poisoned oasis put the city on edge.",
+            "Sylvia weighs their contract while Rubia pushes to investigate. Their disagreement leads toward ancient ruins and the city's hidden troubles."
+          ],
+          "highlights": [
+            "A desert city and its threatened oasis",
+            "Two sisters with different approaches"
+          ],
+          "cast": [
+            "Sylvia",
+            "Rubia"
+          ]
+        },
+        "ja": {
+          "name": "Desert Flower",
+          "summary": "脅かされる砂漠の街とオアシス。シルヴィアとルヴィアの判断が分かれます。",
+          "paragraphs": [
+            "アラリックに着いた一行は、傭兵団を率いるシルヴィアとルヴィアに出会います。軍事的な圧力に加え、オアシスに毒がまかれたことで緊張が高まっています。",
+            "契約を重視する姉と、調査に乗り出す妹。異なる判断が遺跡へとつながり、姉妹の関係と街の問題を浮かび上がらせます。"
+          ],
+          "highlights": [
+            "砂漠の街とオアシスの危機",
+            "シルヴィアとルヴィアの異なる判断"
+          ],
+          "cast": [
+            "シルヴィア",
+            "ルヴィア"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 5 BGM: Ancient Ruins",
+          "url": "https://www.youtube.com/watch?v=y1_wv-7vAeM"
+        },
+        {
+          "label": "Official costume probability list",
+          "url": "https://browndust2.gitbook.io/probabilitydetails_en/other-probabilities/gear-draw"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 실비아",
+          "url": "https://namu.moe/w/%EC%8B%A4%EB%B9%84%EC%95%84(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "story-6",
+      "cover": "pack_story6.png",
+      "group": "story",
+      "number": 6,
+      "title": "Pagan Tower",
+      "locales": {
+        "ko": {
+          "name": "이교의 탑",
+          "summary": "습격받는 마탑에서 이클립스와 협력하며, 어둠의 마력 테라를 마주합니다.",
+          "paragraphs": [
+            "올슈타인의 조언을 따라 도착한 마탑은 코퀴토스의 공격을 받고 있습니다. 탑의 주인 이클립스는 침입자들을 막느라 분주하고, 일행은 그녀와 협력하게 됩니다.",
+            "탑을 지키는 전투 속에서 어둠의 마력 테라를 둘러싼 이야기가 펼쳐집니다. 그 힘을 사용하는 이들을 어떻게 바라볼지, 일행의 생각에도 질문을 던집니다."
+          ],
+          "highlights": [
+            "이클립스와 함께하는 마탑 방어",
+            "테라와 흑마법의 관계"
+          ],
+          "cast": [
+            "이클립스",
+            "유스티아",
+            "라텔"
+          ]
+        },
+        "en": {
+          "name": "Pagan Tower",
+          "summary": "Join Eclipse in defending a besieged tower and confronting the mysteries of Terra.",
+          "paragraphs": [
+            "Following Olstein's advice, the party reaches a magic tower under attack by Cocytus. Its mistress Eclipse agrees to help them if they assist with its defence.",
+            "The battles introduce Terra and challenge the party's assumptions about dark power and those who wield it."
+          ],
+          "highlights": [
+            "Defending Eclipse's tower",
+            "Terra and the nature of dark magic"
+          ],
+          "cast": [
+            "Eclipse",
+            "Justia",
+            "Lathel"
+          ]
+        },
+        "ja": {
+          "name": "Pagan Tower",
+          "summary": "襲撃される魔塔でエクリプスと協力し、闇の魔力テラに向き合います。",
+          "paragraphs": [
+            "オルシュタインの助言で訪れた魔塔は、コキュートスの攻撃を受けています。一行は塔の主エクリプスと協力して侵入者に立ち向かいます。",
+            "塔を守る戦いの中で、闇の魔力テラをめぐる話が展開します。その力と使い手をどう見るべきか、一行の考えが問われます。"
+          ],
+          "highlights": [
+            "エクリプスと共に魔塔を守る戦い",
+            "テラと黒魔術の関係"
+          ],
+          "cast": [
+            "エクリプス",
+            "ユースティア",
+            "ラテル"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 6 BGM: Broken Fantasy",
+          "url": "https://www.youtube.com/watch?v=vladTB6dfn8"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 이클립스",
+          "url": "https://namu.moe/w/%EC%9D%B4%ED%81%B4%EB%A6%BD%EC%8A%A4(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "story-7",
+      "cover": "pack_story7.png",
+      "group": "story",
+      "number": 7,
+      "title": "Fury Angel",
+      "locales": {
+        "ko": {
+          "name": "분노의 천사",
+          "summary": "라르칼의 교회에 남은 흔적. 세헤라자드가 찾던 테레제의 행방에 다가갑니다.",
+          "paragraphs": [
+            "일행은 라르칼 마을의 교회에서 아이들이 위험에 처했던 흔적을 발견합니다. 세헤라자드는 그곳에서 언니 테레제와 연결되는 단서를 찾습니다.",
+            "조사는 교회 아래 지하 시설로 이어집니다. 아이들을 지키려는 테레제의 사정과, 오래 이어진 실종의 비밀을 따라가는 장입니다."
+          ],
+          "highlights": [
+            "교회에서 지하 시설로 이어지는 조사",
+            "테레제와 아이들의 행방"
+          ],
+          "cast": [
+            "테레제",
+            "세헤라자드"
+          ]
+        },
+        "en": {
+          "name": "Fury Angel",
+          "summary": "Clues in a village church bring Scheherazade closer to her missing sister Teresse.",
+          "paragraphs": [
+            "The party finds traces of endangered children in the church at Larkal. Among them, Scheherazade discovers signs of Teresse.",
+            "Their investigation continues beneath the church, following Teresse's efforts to protect the children and the mystery of her disappearance."
+          ],
+          "highlights": [
+            "An investigation beneath the church",
+            "Searching for Teresse and the children"
+          ],
+          "cast": [
+            "Teresse",
+            "Scheherazade"
+          ]
+        },
+        "ja": {
+          "name": "Fury Angel",
+          "summary": "村の教会に残る手掛かり。シェラザードは姉テレーゼの行方に近づきます。",
+          "paragraphs": [
+            "ラルカル村の教会で、子供たちが危険にさらされた痕跡を見つける一行。シェラザードは、その中に姉テレーゼの手掛かりを発見します。",
+            "調査は教会の地下施設へ。子供たちを守ろうとするテレーゼの事情と、失踪の謎を追っていきます。"
+          ],
+          "highlights": [
+            "教会から地下施設へと続く調査",
+            "テレーゼと子供たちの行方"
+          ],
+          "cast": [
+            "テレーゼ",
+            "シェラザード"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 7 BGM: Nest of Sorrow",
+          "url": "https://www.youtube.com/watch?v=pdsUAQ7ko5k"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 테레제",
+          "url": "https://namu.moe/w/%ED%85%8C%EB%A0%88%EC%A0%9C(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "story-8",
+      "cover": "pack_story8.png",
+      "group": "story",
+      "number": 8,
+      "title": "Bloody Rhapsody",
+      "locales": {
+        "ko": {
+          "name": "피의 광시곡",
+          "summary": "로데브의 실종 사건을 좇는 일행. 리아트리스와 도적단을 둘러싼 비밀에 접근합니다.",
+          "paragraphs": [
+            "테레제의 부탁으로 로데브에 도착한 일행은 리아트리스를 찾습니다. 마을의 실종 사건에 그녀의 도적단이 얽혀 있다는 단서가 드러납니다.",
+            "의심은 도적단 본부로 향합니다. 밝은 만남 뒤에 숨은 위협을 추적하면서, 일행의 관계에도 변화가 찾아옵니다."
+          ],
+          "highlights": [
+            "로데브에서 벌어진 실종 사건",
+            "리아트리스와 도적단의 비밀"
+          ],
+          "cast": [
+            "리아트리스",
+            "유스티아",
+            "라텔"
+          ]
+        },
+        "en": {
+          "name": "Bloody Rhapsody",
+          "summary": "Disappearances in Rodev lead the party toward Liatris and secrets within her bandit group.",
+          "paragraphs": [
+            "Arriving in Rodev at Teresse's request, the party seeks Liatris. Clues connect her bandit group to people who have gone missing.",
+            "The investigation turns toward the group's headquarters, where a troubling mystery tests the companions' changing relationships."
+          ],
+          "highlights": [
+            "Disappearances in Rodev",
+            "Secrets surrounding Liatris's group"
+          ],
+          "cast": [
+            "Liatris",
+            "Justia",
+            "Lathel"
+          ]
+        },
+        "ja": {
+          "name": "Bloody Rhapsody",
+          "summary": "ロデブの失踪事件を追い、リアトリスと盗賊団の秘密へ近づきます。",
+          "paragraphs": [
+            "テレーゼの頼みでロデブへ来た一行はリアトリスを捜します。やがて、村の失踪事件と彼女の盗賊団を結ぶ手掛かりが見つかります。",
+            "調査は盗賊団の本拠地へ。出会いの裏に潜む脅威を追う中で、仲間たちの関係にも変化が訪れます。"
+          ],
+          "highlights": [
+            "ロデブの失踪事件",
+            "リアトリスと盗賊団の秘密"
+          ],
+          "cast": [
+            "リアトリス",
+            "ユースティア",
+            "ラテル"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Story Pack 8 BGM: Ominous Sign",
+          "url": "https://www.youtube.com/watch?v=S4v4pmzFT4Y"
+        },
+        {
+          "label": "Official Bloody Rhapsody wallpaper notice",
+          "url": "https://webapi.browndust2.com/api/notices/01KS1AVRTPVEAERE6BAS5XZZBB?locale=en-us"
+        },
+        {
+          "label": "Community story reference / 커뮤니티 줄거리 정리 · 유스티아",
+          "url": "https://namu.moe/w/%EC%9C%A0%EC%8A%A4%ED%8B%B0%EC%95%84(%EB%B8%8C%EB%9D%BC%EC%9A%B4%EB%8D%94%EC%8A%A4%ED%8A%B8%202)"
+        }
+      ]
+    },
+    {
+      "id": "character-1",
+      "cover": "pack_charactor1.png",
+      "group": "character",
+      "number": 1,
+      "title": "Jayden's Gate",
+      "locales": {
+        "ko": {
+          "name": "제이든스 게이트",
+          "summary": "제이든과 학생들이 학교의 이상 현상에 휘말리는 하이스쿨 판타지.",
+          "paragraphs": [
+            "만화 연구부의 제이든이 있는 학교에서 평범한 일상이 흔들리고, 학생들은 교내 위기의 원인을 좇는다.",
+            "교실과 복도를 탐색하고 전투를 벌이는 구성으로, 본편과 다른 가벼운 학원극과 판타지를 섞는다."
+          ],
+          "highlights": [
+            "학교를 무대로 한 하이스쿨 판타지",
+            "교내 탐색과 위기 해결"
+          ],
+          "cast": [
+            "제이든"
+          ]
+        },
+        "en": {
+          "name": "Jayden's Gate",
+          "summary": "A high-school fantasy in which Jayden and other students are caught in a strange school crisis.",
+          "paragraphs": [
+            "Ordinary life breaks down at the school of manga-club student Jayden, sending the students after the cause of the incident.",
+            "Exploration and battles across classrooms and corridors create a lighter school fantasy distinct from the main story."
+          ],
+          "highlights": [
+            "High-school fantasy setting",
+            "Exploration and crisis-solving inside the school"
+          ],
+          "cast": [
+            "Jayden"
+          ]
+        },
+        "ja": {
+          "name": "ジェイデンズ・ゲート",
+          "summary": "ジェイデンと生徒たちが学校の異変に巻き込まれるハイスクール・ファンタジー。",
+          "paragraphs": [
+            "漫画研究部のジェイデンがいる学校で日常が崩れ、生徒たちは校内危機の原因を追う。",
+            "教室や廊下の探索と戦闘を通じ、本編とは異なる軽快な学園劇とファンタジーを組み合わせる。"
+          ],
+          "highlights": [
+            "学校を舞台にしたハイスクール・ファンタジー",
+            "校内探索と危機の解決"
+          ],
+          "cast": [
+            "ジェイデン"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Character Pack trailer",
+          "url": "https://www.youtube.com/watch?v=KN_64VoNyEA"
+        },
+        {
+          "label": "Official Character Pack 1 BGM: School Crisis",
+          "url": "https://www.youtube.com/watch?v=G3PUhOoEr48"
+        }
+      ]
+    },
+    {
+      "id": "character-2",
+      "cover": "pack_charactor2.png",
+      "group": "character",
+      "number": 2,
+      "title": "Firechip",
+      "locales": {
+        "ko": {
+          "name": "파이어칩",
+          "summary": "붕괴한 세계의 지하 철로와 시설을 돌파하는 포스트 아포칼립스 생존극.",
+          "paragraphs": [
+            "레클리스와 아나스타샤 일행은 어두운 승강장과 폐쇄 시설을 이동하며 생존을 가로막는 적과 맞선다.",
+            "기계와 폐허가 뒤섞인 공간 탐색, 좁은 통로의 전투가 본편과 전혀 다른 긴장감을 만든다."
+          ],
+          "highlights": [
+            "포스트 아포칼립스 세계와 죽음의 승강장",
+            "지하 시설 탐색과 생존 전투"
+          ],
+          "cast": [
+            "레클리스",
+            "아나스타샤",
+            "안젤리카",
+            "리아트리스",
+            "위글"
+          ]
+        },
+        "en": {
+          "name": "Firechip",
+          "summary": "A post-apocalyptic survival story crossing underground rails and facilities in a collapsed world.",
+          "paragraphs": [
+            "Lecliss, Anastasia, and their companions move through dark platforms and sealed facilities while fighting threats to survival.",
+            "Ruined machinery, enclosed exploration, and battles in narrow passages create tension far removed from the main story."
+          ],
+          "highlights": [
+            "A post-apocalyptic world and a platform of death",
+            "Underground exploration and survival battles"
+          ],
+          "cast": [
+            "Lecliss",
+            "Anastasia",
+            "Angelica",
+            "Liatris",
+            "Wiggle"
+          ]
+        },
+        "ja": {
+          "name": "ファイアチップ",
+          "summary": "崩壊した世界の地下線路と施設を進む、ポストアポカリプスのサバイバル劇。",
+          "paragraphs": [
+            "レクリスやアナスタシアたちは暗いホームと閉鎖施設を移動し、生存を脅かす敵に立ち向かう。",
+            "機械と廃墟が混ざる空間探索、狭い通路での戦闘が本編とは異なる緊張感を生み出す。"
+          ],
+          "highlights": [
+            "ポストアポカリプス世界と死のホーム",
+            "地下施設の探索と生存戦"
+          ],
+          "cast": [
+            "レクリス",
+            "アナスタシア",
+            "アンジェリカ",
+            "リアトリス",
+            "ウィグル"
+          ]
+        }
+      },
+      "sources": [
+        {
+          "label": "Official Character Pack trailer",
+          "url": "https://www.youtube.com/watch?v=KN_64VoNyEA"
+        },
+        {
+          "label": "Official Character Pack 2 BGM: Platform of Death",
+          "url": "https://www.youtube.com/watch?v=NwIvr2INVTo"
+        },
+        {
+          "label": "Official Firechip daily-story update",
+          "url": "https://webapi.browndust2.com/api/notices/01M1ZCJ63TVFA5H2WEDT98VN6E?locale=en-us"
+        }
+      ]
+    },
+    {
+      "id": "character-3",
+      "cover": "pack_charactor3.png",
+      "group": "character",
+      "number": 3,
+      "title": "Beauty Impossible",
+      "locales": {
+        "ko": {
+          "name": "뷰티 임파서블",
+          "summary": "경비와 레이저 장애물을 돌파하는 스파이 액션. 또 다른 세계의 잠입 임무가 펼쳐집니다.",
+          "paragraphs": [
+            "현대적인 보안 시설과 감시 장치가 있는 세계에서 잠입과 전투를 즐기는 캐릭터팩입니다. 학교와 폐허를 배경으로 한 앞선 팩들과는 다른 첩보물의 분위기를 만날 수 있습니다.",
+            "레이저 장애물을 통과하는 움직임과 전투 장면을 눈여겨보세요. 익숙한 판타지 배경을 벗어나 스파이 영화 같은 공간을 탐색하는 장르 변주가 특징입니다."
+          ],
+          "highlights": [
+            "현대적인 시설을 무대로 한 스파이 액션",
+            "감시 장치와 레이저 장애물"
+          ],
+          "cast": []
+        },
+        "en": {
+          "name": "Beauty Impossible",
+          "summary": "A spy-action adventure through guarded facilities and laser obstacles.",
+          "paragraphs": [
+            "Enter a modern world of surveillance, infiltration and combat. This Character Pack trades the school and ruined landscapes of earlier packs for the atmosphere of a spy thriller.",
+            "Look for laser obstacles and action inside guarded facilities. Its appeal is the shift from a fantasy setting to the spaces and movement of a spy adventure."
+          ],
+          "highlights": [
+            "Spy action in modern facilities",
+            "Surveillance and laser obstacles"
+          ],
+          "cast": []
+        },
+        "ja": {
+          "name": "Beauty Impossible",
+          "summary": "警備施設とレーザー障害物を突破するスパイアクション。別世界の潜入を楽しめます。",
+          "paragraphs": [
+            "現代的な警備施設と監視装置がある世界で、潜入と戦闘を楽しむキャラクターパックです。学校や廃墟を舞台にした先のパックとは異なるスパイものの雰囲気が特徴です。",
+            "レーザー障害物を通り抜ける動きや、施設内での戦闘に注目してください。ファンタジーから離れ、スパイ映画のような空間へと舞台を変える楽しさがあります。"
+          ],
+          "highlights": [
+            "現代の施設を舞台にしたスパイアクション",
+            "監視装置とレーザー障害物"
+          ],
+          "cast": []
+        }
+      },
+      "sources": [
+        {
+          "label": "Official site pack catalog",
+          "url": "https://www.browndust2.com/data/pack/en.json"
+        },
+        {
+          "label": "Official Character Pack trailer",
+          "url": "https://www.youtube.com/watch?v=KN_64VoNyEA"
+        },
+        {
+          "label": "Official Character Pack 3 BGM: Do the impossible",
+          "url": "https://www.youtube.com/watch?v=sTtabAwB8Bo"
+        }
+      ]
+    },
+    {
+      "id": "special-1",
+      "cover": "pack_special_pvp.png",
+      "group": "special",
+      "number": 1,
+      "title": "Mirror Wars",
+      "locales": {
+        "ko": {
+          "name": "거울전쟁",
+          "summary": "공격·방어 진형을 미리 구성해 다른 플레이어와 겨루는 PvP 콘텐츠.",
+          "paragraphs": [
+            "상대 진형을 예상하고 자신의 공격 순서와 코스튬 조합을 짜는 것이 승부의 중심이다.",
+            "공격 진형뿐 아니라 방어 진형도 따로 준비하므로, 제한된 정보 속에서 대응책을 설계하는 재미가 크다."
+          ],
+          "highlights": [
+            "다른 플레이어의 진형과 겨루는 PvP",
+            "공격·방어 프리셋을 활용한 전략"
+          ],
+          "cast": []
+        },
+        "en": {
+          "name": "Mirror Wars",
+          "summary": "PvP content where players prepare offense and defense formations before dueling other players.",
+          "paragraphs": [
+            "Predicting the opposing formation and planning attack order and costume combinations sit at the center of each match.",
+            "Separate offense and defense setups reward counterplay and careful decisions made with limited information."
+          ],
+          "highlights": [
+            "PvP battles against player formations",
+            "Strategy built around offense and defense presets"
+          ],
+          "cast": []
+        },
+        "ja": {
+          "name": "鏡戦争",
+          "summary": "攻撃・防御陣形を事前に組み、ほかのプレイヤーと競うPvPコンテンツ。",
+          "paragraphs": [
+            "相手の陣形を読み、自分の攻撃順とコスチュームの組み合わせを設計することが勝負の中心となる。",
+            "攻撃と防御を別々に準備するため、限られた情報から対策を組み立てる面白さがある。"
+          ],
+          "highlights": [
+            "他プレイヤーの陣形と戦うPvP",
+            "攻撃・防御プリセットを使う戦略"
+          ],
+          "cast": []
+        }
+      },
+      "sources": [
+        {
+          "label": "Official Mirror War guide",
+          "url": "https://browndust2.gitbook.io/guide_en/game-guideline/pack/mirror-war"
+        },
+        {
+          "label": "Official formation strategy notice",
+          "url": "https://webapi.browndust2.com/api/notices/01KS1AVRX0BFG0HCKRKB92842X?locale=en-us"
+        }
+      ]
+    },
+    {
+      "id": "special-2",
+      "cover": "pack_3003.png",
+      "group": "special",
+      "number": 2,
+      "title": "Evil Castle",
+      "locales": {
+        "ko": {
+          "name": "악마성",
+          "summary": "층마다 기다리는 적을 공략하며 더 높은 도전과 좋은 기록을 노리는 전투 콘텐츠.",
+          "paragraphs": [
+            "악마성은 층별 전투를 통해 편성과 전투 전략을 시험하는 콘텐츠입니다. 상대의 속성과 공격 방식, 전투 조건을 살피고 그에 맞는 팀을 준비합니다.",
+            "같은 팀만 고집하기보다 공격 순서와 코스튬 조합을 바꿔 보세요. 각 전투에 맞는 해법을 찾고 도전 결과를 개선하는 과정이 핵심입니다."
+          ],
+          "highlights": [
+            "층별 적에 맞춰 바꾸는 편성",
+            "공격 순서와 코스튬 조합을 시험하는 도전"
+          ],
+          "cast": []
+        },
+        "en": {
+          "name": "Evil Castle",
+          "summary": "Tackle floor-by-floor battles, adjusting your team to push further and improve your results.",
+          "paragraphs": [
+            "Evil Castle puts your formation and battle plan to the test across successive floors. Examine each opponent and the conditions of the encounter before choosing a team.",
+            "Experiment with attack order and costume combinations. Finding a suitable approach for each battle is the focus of the challenge."
+          ],
+          "highlights": [
+            "Teams adapted to each floor",
+            "Testing attack order and costume combinations"
+          ],
+          "cast": []
+        },
+        "ja": {
+          "name": "悪魔城",
+          "summary": "階ごとの敵に挑み、編成を工夫してより良い結果を目指す戦闘コンテンツ。",
+          "paragraphs": [
+            "悪魔城では階ごとの戦闘を通じて、編成と戦略を試せます。相手の属性や攻撃方法、戦闘条件を確認してチームを準備しましょう。",
+            "同じ編成だけに頼らず、攻撃順とコスチュームの組み合わせを変えてみてください。それぞれの戦闘に合う攻略法を見つけることが挑戦の中心です。"
+          ],
+          "highlights": [
+            "各階の敵に合わせた編成",
+            "攻撃順とコスチュームの組み合わせ"
+          ],
+          "cast": []
+        }
+      },
+      "sources": [
+        {
+          "label": "Official Evil Castle guide",
+          "url": "https://browndust2.gitbook.io/guide_en/game-guideline/pack/evil-castle"
+        },
+        {
+          "label": "Official launch-season notice",
+          "url": "https://webapi.browndust2.com/api/notices/01KS1AVRD8FQEZ5WD041PE35CA?locale=en-us"
+        },
+        {
+          "label": "NEOWIZ official tower introduction (2024)",
+          "url": "https://prtimes.jp/main/html/rd/p/000001506.000010988.html"
+        }
+      ]
+    },
+    {
+      "id": "special-3",
+      "cover": "pack_3004.png",
+      "group": "special",
+      "number": 3,
+      "title": "Path of Adventure",
+      "locales": {
+        "ko": {
+          "name": "모험의 항로",
+          "summary": "필요한 성장 재료에 맞춰 던전을 골라 반복 공략하는 자원 콘텐츠.",
+          "paragraphs": [
+            "슬라임 왕국, 고블린 던전, 수정 동굴처럼 목적이 다른 전투 지역 중 필요한 곳을 선택한다.",
+            "캐릭터 경험 재료, 골드, 장비 제작용 보석을 목표로 효율적인 팀과 반복 전투 흐름을 구성한다."
+          ],
+          "highlights": [
+            "목표 재화에 따라 고르는 던전",
+            "성장 재료 수집에 집중한 반복 전투"
+          ],
+          "cast": []
+        },
+        "en": {
+          "name": "Path of Adventure",
+          "summary": "Resource content where players choose a dungeon based on the growth material they need.",
+          "paragraphs": [
+            "Different combat areas include the Slime Empire, Goblin Ruins, and Crystal Cave, each serving a distinct resource goal.",
+            "Players build an efficient team and repeat battles for character growth materials, gold, or equipment-crafting gems."
+          ],
+          "highlights": [
+            "Dungeons selected by target resource",
+            "Repeat battles focused on growth materials"
+          ],
+          "cast": []
+        },
+        "ja": {
+          "name": "冒険の航路",
+          "summary": "必要な育成素材に合わせてダンジョンを選び、繰り返し攻略する資源コンテンツ。",
+          "paragraphs": [
+            "スライム王国、ゴブリン遺跡、水晶洞窟など、目的の異なる戦闘地域から必要な場所を選ぶ。",
+            "経験素材、ゴールド、装備製作用の宝石を目標に、効率的なチームと周回の流れを組み立てる。"
+          ],
+          "highlights": [
+            "欲しい資源で選ぶダンジョン",
+            "育成素材の収集に集中した周回戦闘"
+          ],
+          "cast": []
+        }
+      },
+      "sources": [
+        {
+          "label": "Official Path of Adventure guide",
+          "url": "https://browndust2.gitbook.io/guide_kr/undefined/undefined-5/undefined-4"
+        },
+        {
+          "label": "Official Path of Adventure event notice",
+          "url": "https://webapi.browndust2.com/api/notices/01KS1AVRDNP1VXQD9CGVPQCW0C?locale=en-us"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "스토리팩",
+    "banner": "/img/pack/item/pack-box-story.png",
+    "description": "브라운더스트2의<br />메인 이야기를 즐길 수 있는 팩",
+    "pack": [
+      "/img/pack/packCard/pack_story1.png",
+      "/img/pack/packCard/pack_story2.png",
+      "/img/pack/packCard/pack_story3.png",
+      "/img/pack/packCard/pack_story4.png",
+      "/img/pack/packCard/pack_story5.png",
+      "/img/pack/packCard/pack_story6.png",
+      "/img/pack/packCard/pack_story7.png",
+      "/img/pack/packCard/pack_story8.png"
+    ]
+  },
+  {
+    "name": "캐릭터팩",
+    "banner": "/img/pack/item/pack-box-character.png",
+    "description": "브라운더스트2 세계관과<br />다른 시공간에서 펼쳐지는<br />캐릭터들의 이야기를 그린 팩",
+    "pack": [
+      "/img/pack/packCard/pack_charactor1.png",
+      "/img/pack/packCard/pack_charactor2.png",
+      "/img/pack/packCard/pack_charactor3.png"
+    ]
+  },
+  {
+    "name": "스페셜팩",
+    "banner": "/img/pack/item/pack-box-special.png",
+    "description": "전략과 대전 등<br />특정 컨텐츠에 특화된 팩",
+    "pack": [
+      "/img/pack/packCard/pack_special_pvp.png",
+      "/img/pack/packCard/pack_3003.png",
+      "/img/pack/packCard/pack_3004.png"
+    ]
+  }
+]

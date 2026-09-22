@@ -1,5 +1,7 @@
-﻿# BrownDust2 homepage design preview
+# BrownDust2 homepage design preview
 
 Non-official design prototype for review. Game content and assets belong to their respective owners.
 
-Published snapshot from bd2-v2-20260914 commit 215d55124c31a188ff09f158a2746a6879ef4815.
+Published snapshot from bd2-pack-reveal-20260922 commit 72d73cb032c3645ca664eae07d03bec1e3bc483e.
+
+Includes multiple-pack selection, immediate dragging, and continuous tilt/settle motion. Build: npm run build. Existing improvement report preserved.

@@ -1,0 +1,66 @@
+[
+ {
+  "id": "justia",
+  "title": "하얀 사신",
+  "name": "유스티아",
+  "cv": {
+   "ko": "정혜원",
+   "ja": "Azumi Waki"
+  },
+  "quote": "악을 물리치는 것이, 저의 사명.",
+  "intro": "하얀 사신이라는 무시무시한 이명을 가진 소녀 검사. 오직 사악한 흑마법사를 물리친다는 임무를 완수하기 위해서만 움직인다. 딱딱한 성격이지만, 요리와 식사를 좋아한다는 귀여운 일면도 있다.",
+  "video": {
+   "base": "assets/characters/official-justia-default.mp4",
+   "costume": "assets/characters/official-justia-change.mp4"
+  },
+  "source": "https://www.browndust2.com/ko-kr/character"
+ },
+ {
+  "id": "lathel",
+  "title": "약초 추적자",
+  "name": "라텔",
+  "cv": {
+   "ko": "김영선",
+   "ja": "Shun horie"
+  },
+  "quote": "내가 모두를 지키겠어!",
+  "intro": "작고 조용한 시골, 루고 마을에 사는 마음 어린 약초꾼. 남들에게 이야기하지 못할 고통스러운 과거를 가지고 있지만 내색하지 않고 밝게 살아가고 있다. 여동생인 미샤를 끔찍이 아끼는 좋은 오빠기도 하다.",
+  "video": {
+   "base": "assets/characters/official-lathel-default.mp4",
+   "costume": "assets/characters/official-lathel-change.mp4"
+  },
+  "source": "https://www.browndust2.com/ko-kr/character"
+ },
+ {
+  "id": "scheherazade",
+  "title": "푸른 마녀",
+  "name": "세헤라자드",
+  "cv": {
+   "ko": "여민정",
+   "ja": "Aimi"
+  },
+  "quote": "벌써 끝이야? 시시한걸.",
+  "intro": "어떤 곳에서는 마을을 지켜준 은인. 어떤 곳에서는 무시무시한 마녀로 통하는 미녀 마법사. 장난기 많지만 똑똑하고 의지가 되는 사람이기도 하다. 하지만 가끔 결정적인 순간에 실수를 저지를 때도...!",
+  "video": {
+   "base": "assets/characters/official-scheherazade-default.mp4",
+   "costume": "assets/characters/official-scheherazade-change.mp4"
+  },
+  "source": "https://www.browndust2.com/ko-kr/character"
+ },
+ {
+  "id": "gray",
+  "title": "안개의 명사수",
+  "name": "그레이",
+  "cv": {
+   "ko": "최결",
+   "ja": "Koshuke Toriumi"
+  },
+  "quote": "전투도 끝났으니, 한잔 어때?",
+  "intro": "깔끔한 활 실력으로 이름을 떨치고 있는 용병. 그러나 실력과 별개로 제멋대로인 성격 때문에 평판은 그리 좋지 않다. 일단은 세상 물정에 밝고 전투에도 능숙해 방정맞은 입만 빼면 도움이 되는 편.",
+  "video": {
+   "base": "assets/characters/official-gray-default.mp4",
+   "costume": "assets/characters/official-gray-change.mp4"
+  },
+  "source": "https://www.browndust2.com/ko-kr/character"
+ }
+]
